@@ -3,7 +3,7 @@ import { educations } from '../data/profile'
 function Education() {
   return (
     <div>
-      <h1 className="page-title">學歷</h1>
+      <h1 className="page-title">Education</h1>
       <p className="page-subtitle">求學歷程</p>
 
       <div className="timeline">

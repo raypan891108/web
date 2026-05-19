@@ -3,7 +3,7 @@ import { experiences, profile } from '../data/profile'
 function Resume() {
   return (
     <div>
-      <h1 className="page-title">經歷</h1>
+      <h1 className="page-title">Experience</h1>
       <p className="page-subtitle">
         以下是我的工作與研究經歷時間軸。
         {profile.resumeUrl && profile.resumeUrl !== '#' && (

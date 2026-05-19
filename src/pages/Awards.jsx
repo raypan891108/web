@@ -3,7 +3,7 @@ import { awards } from '../data/profile'
 function Awards() {
   return (
     <div>
-      <h1 className="page-title">榮譽獎項</h1>
+      <h1 className="page-title">Awards</h1>
       <p className="page-subtitle">competitions, certifications & research grants</p>
 
       {awards.map((a) => (

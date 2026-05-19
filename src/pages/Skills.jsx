@@ -3,7 +3,7 @@ import { skillGroups } from '../data/profile'
 function Skills() {
   return (
     <div>
-      <h1 className="page-title">技能</h1>
+      <h1 className="page-title">Skills</h1>
       <p className="page-subtitle">tools & technologies I use in production</p>
 
       {skillGroups.map((group) => (

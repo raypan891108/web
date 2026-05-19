@@ -3,7 +3,7 @@ import { projects } from '../data/profile'
 function Projects() {
   return (
     <div>
-      <h1 className="page-title">專案</h1>
+      <h1 className="page-title">Projects</h1>
       <p className="page-subtitle">個人專案與作品集</p>
 
       {projects.map((p) => (

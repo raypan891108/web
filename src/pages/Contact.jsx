@@ -30,7 +30,7 @@ const items = [
 function Contact() {
   return (
     <div>
-      <h1 className="page-title">聯絡</h1>
+      <h1 className="page-title">Contact</h1>
       <p className="page-subtitle">
         feel free to reach out · 通常 1–2 天內回覆
       </p>
