@@ -10,7 +10,7 @@ export const profile = {
   tagline:
     '橫跨後端工程與 AI 開發的跨域整合者 — 既能用 Java 把系統穩穩交付上線，也能用 PyTorch 把模型從零訓練到部署。',
   location: '台北市大安區 · Taipei, Taiwan',
-  email: 'ray716898@gmail.com',
+  email: 'raypan891108@gmail.com',
   github: 'https://github.com/raypan891108',
   resumeUrl: '#',                            // ← 若有 PDF 履歷，放這裡
 }
